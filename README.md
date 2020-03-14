@@ -1,0 +1,4 @@
+# hyperlpr
+hyperlpr适应最新版python
+使用hyperlpr过程中由于numpy版本问题，以及opencv版本问题导致的错误进行了修改
+适用于最新依赖包
